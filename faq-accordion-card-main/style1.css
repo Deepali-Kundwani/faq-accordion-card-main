@@ -98,12 +98,16 @@ body {
     
 }
 
+.icon-image:hover {
+    cursor :pointer;
+}
+
 .icon-image-2 {
     left: 51.25%;
 }
 
 .icon-image-3 {
-    left: 43%;
+    left: 42%;
 }
 
 .label {
