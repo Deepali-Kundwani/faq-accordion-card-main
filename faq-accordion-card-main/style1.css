@@ -102,14 +102,15 @@ body {
     cursor :pointer;
 }
 .icon-image-1 {
-    left: 17em;
+    left: 17.25em;
 }
+
 .icon-image-2 {
-    left: 51.25%;
+    left: 51.5%;
 }
 
 .icon-image-3 {
-    left: 42%;
+    left: 42.5%;
 }
 
 .label {
